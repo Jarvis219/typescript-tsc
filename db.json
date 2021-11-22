@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "_id": 424755,
+      "_name": "Trần Quang kai",
+      "_email": "taquang.hskx.2000@gmail.com",
+      "_password": "1111",
+      "id": 4
+    },
+    {
+      "_id": 138057,
+      "_name": "Trần Quang 2 ",
+      "_email": "songoku2192@gmail.com",
+      "_password": "1111",
+      "id": 5
+    },
+    {
+      "_id": 288505,
+      "_name": "Trần Quang",
+      "_email": "quangtaph12673@fpt.edu.vn",
+      "_password": "1",
+      "id": 6
+    }
+  ]
+}

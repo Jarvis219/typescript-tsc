@@ -1,0 +1,30 @@
+{
+  "name": "TypeScript_F8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3",
+    "navigo": "^8.11.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "json-server --watch db.json --port 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quangtaph12673/typescript-tsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quangtaph12673/typescript-tsc/issues"
+  },
+  "homepage": "https://github.com/Quangtaph12673/typescript-tsc#readme"
+}
